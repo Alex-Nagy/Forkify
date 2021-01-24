@@ -1,3 +1,3 @@
 import num from './test';
-
-console.log(`I imported ${num} from another module dude!`);
+const x = 27;
+console.log(`I imported ${num} from another module dude! Write this bro ${x} years old.`);

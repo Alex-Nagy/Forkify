@@ -1,4 +1,4 @@
 # Forkify
 udemy project with webpack and babel
 
-Jonas Schmedtmann
+Jonas Schmedtmann  JS course
